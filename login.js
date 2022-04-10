@@ -15,8 +15,9 @@ function logar() {
      var us = usuarios[u];
      if(us.login === login && us.senha === senha){
 
-        alert('sucesso')
+        alert('sucesso');
         location.href = "https://github.com/ViniciusHTSilva/Desafio5/deployments/activity_log?environment=github-pageshttps://github.com/ViniciusHTSilva/Desafio5/deployments/activity_log?environment=github-pages";
+        
     }
  }
  alert("incorreto")
