@@ -1,0 +1,23 @@
+.modal {
+width: 300px;
+}
+
+.modal-content {
+    width: 300px;
+}
+
+.list-group-item{
+    border: none;
+}
+
+.list-group-item:hover {
+
+    background-color: #2d292939;
+    color: rgb(0, 255, 55);
+    cursor: pointer;
+}
+
+.menu{
+    text-decoration: none;
+    border: none;
+}
